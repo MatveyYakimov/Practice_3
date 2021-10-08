@@ -1,0 +1,4 @@
+1.
+number = int(input())
+if number % 2 == 0: print("это число четное")
+elif number  % 1 == 0: print("это число нечетное")
